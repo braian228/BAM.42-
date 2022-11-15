@@ -1,0 +1,49 @@
+ body { display: inline-block; }
+
+img { border-radius: 100%;
+
+width: 15%; }
+
+h2, h1  { font-family: sans-serif;
+	color: white;
+ }
+
+
+
+body { background-image:
+ 
+      linear-gradient(135deg,#00d7d4,#505488, #2f3f80,#161569,#5a4894,#a950a1, #ff7cae );
+ background-size: 500%;
+ animation: fanimado 10s infinite;
+
+}
+.texto { color: white;
+	text-align: center;
+	margin: 300px 0;
+	font-size: 28px;
+
+
+
+}
+
+@keyframes fanimado {
+	0% { background-position: 0% 50%;
+	} 
+	50%{ background-position: 100% 50%;
+	}
+	100% { background-position: 0% 50%;
+	}
+
+
+
+
+
+
+
+}
+   
+
+
+
+
+

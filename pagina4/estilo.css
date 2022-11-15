@@ -1,0 +1,185 @@
+
+
+
+
+
+ body {  padding: 50px;
+ 	background-color: #85929E ;
+ 	font-family: sans-serif;
+}
+.menu-bar { background-color:black;
+	margin: 100px;
+	border-radius: 30%;
+
+
+                        }
+
+  h1 {  text-align:center;
+  color: white;
+   background-color: #0099FF;
+  font-family: sans-serif;
+  border-radius: 30%;
+  padding: 30px;
+  margin: 30px;
+  
+
+   }
+
+.menu ul  { list-style: none;
+	padding: 0;
+	margin: 0;
+
+
+
+    }
+
+    .menu ul, li { display:inline-block;   }
+
+     .menu ul, li , a { text-decoration: none;
+     	color: white;
+     	padding: 10px 20px;
+     	border-radius: 30%;
+
+
+
+      }
+
+      .menu ul li a:hover{background-color: #0099FF;
+
+       } 
+       .menu-modelos { display: flex;
+
+
+
+
+
+       }
+
+.menu-modelos img { 
+	border-radius: 50%;
+	width: 400px;
+	left: 400px;
+	right: 400px;
+
+
+	
+    
+}
+
+.menu-modelos ul li { 
+	padding: 10px;
+	margin: 50px;
+	
+ }
+
+
+.menu-modelos {
+	content: "";
+	display: block;
+	clear: both;
+
+}
+
+.box {
+	float: left;
+	position: relative;
+	padding-bottom:30% ;
+  width: 40%;
+
+
+ 
+
+}
+
+.box-inner {
+  position: absolute;
+  right: ;
+ }
+
+
+
+div  img {
+	
+	width: 40%;
+	left: 40%;
+	right: 40%;
+	border-radius: 10%;
+
+}
+article ul li { 
+	padding: 0;
+	margin: 0;
+
+
+	display: block;
+	color: black;
+}
+ 
+ #boton { background-color:#0099FF ;
+ 	padding: 10px;
+ 	border-color: black;
+ 	border-radius: 50%;
+
+
+
+ }
+
+ .container img:hover{  transform: scale3d(2.0, 2.0, 1.0);
+ 	
+}
+
+
+
+.blog img { width:40%;
+   right:40%;    }
+
+   .blog img:hover  { transform: scale3d(2.0, 2.0, 1.0);
+
+
+
+    }
+
+    .blog h2 {font-family: sans-serif;
+
+       }
+
+       .blog  a { color: #0099FF;
+       padding:10px;
+       margin: 10px}
+
+       .elegida h2 {  text-align:center;
+       padding:20px; 
+       margin: 20px;
+      background-color: #0099FF;
+      border-radius: 20%}
+
+
+      .blog h1 { padding: 30px ;
+      margin: 30px ; 
+       background-color: #0099FF   }
+
+      #h { margin:40px ;
+      padding:40px;
+       background-color: #0099FF
+          }
+
+      .pie {  display:block;
+             padding: 20px;
+             margin: 20px;
+             background-color:#0099FF;
+        }
+
+  
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+
+
