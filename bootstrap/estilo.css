@@ -33,3 +33,20 @@ h2 { padding:30px;
 
    .carousel-item img { width: 200px;}
 .img-fluid   {height:50%; }
+
+
+.navbar { background-image:url("https://static.vecteezy.com/system/resources/thumbnails/003/368/024/small/football-for-banner-soccer-championship-2022-in-qatar-vector.jpg ")} 
+
+
+.dropdown-menu li a { background-image:url("https://static.vecteezy.com/system/resources/thumbnails/003/368/024/small/football-for-banner-soccer-championship-2022-in-qatar-vector.jpg ");
+    text-decoration: none;
+
+} 
+
+.dropdown-menu { background-image:url("https://static.vecteezy.com/system/resources/thumbnails/003/368/024/small/football-for-banner-soccer-championship-2022-in-qatar-vector.jpg ");
+    
+} 
+
+
+.nav-item a { color:white; }
+
