@@ -1,0 +1,227 @@
+body { border: 10px;
+  padding: 10px;
+  width: 100%;
+
+ width:1200px; 
+
+}
+
+
+ body  {
+background-image:url("https://martavl2000.neocities.org/Flexbox/img/4.jpg") ;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ 
+
+
+
+ }
+
+
+.menu {text-align: center;
+ 
+ }
+
+ hbody:hover  { margin: 0;
+  padding: 0;
+  border-radius: 10px ;
+  color: white;
+  border: solid 30px  ;
+  transition-duration: 3s;
+  transition-delay: 2s;  
+
+   
+
+  }
+
+
+ 
+
+.three {
+  grid-column: 1;
+  grid-row: 2 / 5;
+border: solid 5px  #00FF99 ;} 
+
+
+
+
+
+
+.nav { border-radius: 12%;
+  padding: 20px;
+  width: 80%;
+   box-sizing: border-box;
+   background-color:#000000 ; 
+ float: right;
+
+ }
+.nav ul li  { list-style:none;
+  
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+  .nav li { display:inline-block; }
+
+  .nav  a { border-radius:20px;
+   background-color: ;
+   text-decoration:none; 
+   color:white;
+   padding: 10px;
+   font-family: 'Diplomata SC', cursive ;
+   font-size: 12px;
+    transition: width 1.5s, height 1.6s;
+    transition-delay: 2s;
+    transition-duration: 2s;
+
+ }
+ nav li , ul, a { 
+ box-sizing: border-box; 
+  display:block;
+
+  }
+
+ 
+ .nav a:hover { 
+  transition-delay:1.0s; 
+ border: 3px solid #00FF99 ;
+
+
+
+}
+
+
+
+ .contacto { float:right;
+  }
+
+
+
+
+
+ h1 { margin: 50px;
+  text-align:center;
+  padding: 20px;
+  box-sizing:border-box; 
+ background-color:#000000 ;
+ color: white;
+font-family: 'Diplomata SC', cursive;
+font-size:12px}
+
+#img {
+
+
+ padding:40px;
+   float: right ;
+    }
+
+    #img:hover {-webkit-transform:scale(1.1);transform:scale(1.2);
+      transition-delay:1s;
+      transition-duration:2s;
+      border-radius: 12%;
+
+
+    }
+    #img {overflow:hidden;}
+
+    #img2:hover {-webkit-transform:scale(1.3);transform:scale(1.3);
+      transition-delay:1s;
+      transition-duration:2s;
+      border-radius: 12%;
+
+    }
+    #img3:hover {-webkit-transform:scale(1.3);transform:scale(1.3);
+      transition-delay:1s;
+      transition-duration:2s;
+      border-radius: 12%;
+
+    }
+
+
+ 
+
+ .imagenes { padding:100px;
+  margin: 20px; }
+
+ #img2 {
+  padding:10px ; 
+   float:left;
+
+}
+
+ #img3{ padding:40px;
+   float:right;
+
+}
+
+#img:hover { cursor:pointer 600px; }
+
+
+
+  #h2 { float:left; }
+
+
+
+.galeria { padding:10px;
+  margin:5px; 
+box-sizing: border-box;}
+
+  .imagenes { width:100%;
+   box-sizing: border-box;}
+
+
+
+   .presentacion { display:inline-block; }
+
+   p { text-align: center; }
+
+
+
+   .p { border-radius:50%;
+    float:right; }
+
+    .b { padding: 40px;
+     border-radius:100%;
+     float:right; }
+
+
+
+     #m { padding: auto;}
+
+     #quienes-somos  a  { transition:1s; }
+    
+
+
+
+     .quienes-somos {
+  grid-column: 1;
+  grid-row: 2 / 5;
+border: solid 5px  #00FF99 ;} 
+
+
+
+p { display: inline;
+  color: #FF0033 ; 
+background-color:white;
+}
+
+.nav a { color: white;  }
+
+
+h2 { padding:5px ;
+background-color:#00FF99; 
+display:inline;
+text-align: center;
+ color: black;
+ border-radius: 5%;}
+
+
+
+.presentacion { width:100%;
+ text-align:center; }
+
+ .quienes-somos { margin:0 auto;
+  }
+  #contacto label { color:black;
+   background-color:#00FF99 }
